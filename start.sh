@@ -21,5 +21,5 @@ fi
 
 
 echo "Starting Your Bot... 👾👾"
-python3 -m tobrot
+python3 main.py
 
